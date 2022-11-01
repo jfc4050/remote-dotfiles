@@ -4,7 +4,7 @@ set -e
 
 HOMEDIR=home
 
-sudo apt-get install fish bat fd-find
+sudo apt-get install fish bat fd-find neovim
 
 find ${HOMEDIR} -type f | while read -r srcpath
 do

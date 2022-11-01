@@ -15,7 +15,7 @@ if status is-interactive
     alias cmb "cmake --build build"
 
     alias bat batcat
-    alias vi vim
+    alias vi nvim
 
     source ~/.iterm2_shell_integration.fish
 end
