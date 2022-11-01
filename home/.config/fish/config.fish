@@ -23,6 +23,7 @@ if status is-interactive
 end
 
 fish_add_path -m ~/bin
+fish_add_path -m /usr/local/cuda/bin
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
