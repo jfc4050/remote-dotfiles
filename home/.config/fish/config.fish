@@ -17,8 +17,6 @@ if status is-interactive
     alias bat batcat
     alias vi vim
 
-    fzf_configure_bindings --directory=\cf --git_status=\cg --git_log=\cl
-
     source ~/.iterm2_shell_integration.fish
 end
 
