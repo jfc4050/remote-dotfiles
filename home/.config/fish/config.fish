@@ -12,6 +12,8 @@ if status is-interactive
 
     fish_config theme choose "Tomorrow Night"
 
+    alias cmb "cmake --build build"
+
     alias bat batcat
     alias vi vim
 
