@@ -21,6 +21,7 @@ if status is-interactive
 end
 
 fish_add_path -m ~/bin
+fish_add_path -m .local/bin
 fish_add_path -m /usr/local/cuda/bin
 
 # >>> conda initialize >>>
