@@ -26,8 +26,8 @@ fish_add_path -m /usr/local/cuda/bin
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-eval /opt/conda/bin/conda "shell.fish" "hook" $argv | source
+# eval /opt/conda/bin/conda "shell.fish" "hook" $argv | source
 # <<< conda initialize <<<
 
-conda activate dev
+# conda activate dev
 
